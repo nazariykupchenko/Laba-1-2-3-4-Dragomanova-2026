@@ -1,3 +1,5 @@
+package lab2;
+
 /**
  * Calculates the future value of an investment using compound interest.
  *

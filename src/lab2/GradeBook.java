@@ -1,3 +1,5 @@
+package lab2;
+
 public class GradeBook {
 
     // 1. Class variables (state)

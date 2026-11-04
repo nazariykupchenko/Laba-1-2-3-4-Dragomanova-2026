@@ -1,3 +1,5 @@
+package lab2;
+
 public class SyntaxDrills {
 
     public static void main(String[] args) {
